@@ -1,0 +1,8 @@
+onnxruntime
+opencv-python
+mediapipe
+moviepy
+fastapi
+uvicorn
+opencv-python-headless
+scipy
